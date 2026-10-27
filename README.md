@@ -1,5 +1,4 @@
-# FUTURE_DS_03
-# 📈 Marketing Funnel Intelligence Dashboard
+# Marketing Funnel Intelligence Dashboard
 
 ## Overview
 
